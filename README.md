@@ -1,2 +1,1 @@
-# pandamart
-first personalized website 
+# my-first-website
